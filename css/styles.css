@@ -77,5 +77,18 @@ ul {
   list-style: none;
 }
 
+#character-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.character{
+  border-radius: 10px;
+  border: 1px solid;
+  margin: .7em;
+  padding: 1em;
+}
+
 
 
